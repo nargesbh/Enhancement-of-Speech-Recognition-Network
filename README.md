@@ -2,7 +2,8 @@
 
 ## Introduction
 
-This repository contains the research and findings of a project aimed at enhancing the accuracy of a speech recognition network's predicted probabilities. The network exhibited interesting behavior where it was uncertain about its predictions despite achieving high accuracy. In this project, we address this issue by utilizing a Multi-Layer Perceptron (MLP) model to analyze prediction patterns and improve the evaluation of probabilities per character.
+This repository contains the research and findings of a project aimed at enhancing the accuracy of a speech recognition network's predicted probabilities. The network exhibited interesting behavior where it was uncertain about its predictions despite achieving high accuracy. In this project, which was conducted during my internship at the University of Leuven, we address this issue by utilizing a Multi-Layer Perceptron (MLP) model to analyze prediction patterns and improve the evaluation of probabilities per character.
+
 
 ## Table of Contents
 
